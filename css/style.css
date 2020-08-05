@@ -112,6 +112,17 @@ p{
     color: #f7c08a;
 
 } 
+.brand-logo{
+    margin-left: 10px;
+    display: inline-block;
+    padding-top: 10px;
+    line-height: inherit;
+    white-space: nowrap;
+}
+.logo-name{
+    font-size: 46px;
+    font-family:Arial, Helvetica, sans-serif;
+}
 /* show case */
 #showcase{
     background: url('../images/showcase.jpg') no-repeat 
