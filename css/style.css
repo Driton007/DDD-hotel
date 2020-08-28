@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 /* Reset*/
 *{
     margin: 0;
@@ -257,9 +258,21 @@ p{
     background: #444;
     color: #fff;
     padding: 20px;
+   
+
 }
-
-
+hr{
+    margin: auto;
+    width: 70%;
+}
+.footer-txt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Satisfy', cursive;
+    color: #000000;
+    font-size:40px;
+}
 
 
 
